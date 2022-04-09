@@ -1,5 +1,5 @@
 # Android-app
-swipe left, right, Top 
+swipe left, right, Top /
 scroll and buttonclick
 
 ![image](https://user-images.githubusercontent.com/73045818/162554242-5ef3b079-faa8-4630-814a-bb105e5fe955.png)
