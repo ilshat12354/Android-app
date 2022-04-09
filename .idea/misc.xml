@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/drawable-v24/circle2.xml" value="0.2703125" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/drawable/circle1.xml" value="0.2595" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/drawable/custom_button.xml" value="0.2" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/drawable/ic_full_moon_black_circle_icon_icons_com_64234.xml" value="0.2703125" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page1.xml" value="0.264" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page2.xml" value="0.264" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page3.xml" value="0.22456140350877193" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page4.xml" value="0.264" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page5.xml" value="0.264" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_card_page6.xml" value="0.24646464646464647" />
+        <entry key="..\:/Users/ilsha/Desktop/RMP/app/src/main/res/layout/activity_starting.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
